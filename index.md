@@ -1,4 +1,4 @@
-## Richard Hongzhuo Chen（ Chinese name: 陈鸿卓）
+# Richard Hongzhuo Chen（ Chinese name: 陈鸿卓）
 - Undergraduate Student
 - School of Computer Science and Engineering
 - Southeast University, Nanjing, China
