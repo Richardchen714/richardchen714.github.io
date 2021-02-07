@@ -1,9 +1,9 @@
 ## Richard Hongzhuo Chen（ Chinese name: 陈鸿卓）
-Undergraduate Student
-School of Computer Science and Engineering
-Southeast University, Nanjing, China
-Email: richardhzchen@gmail.com
-       richardhzchen@seu.edu.cn
+- Undergraduate Student
+- School of Computer Science and Engineering
+- Southeast University, Nanjing, China
+- Email: richardhzchen@gmail.com
+-        richardhzchen@seu.edu.cn
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
